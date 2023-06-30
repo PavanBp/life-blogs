@@ -1,0 +1,6 @@
+User-agent:  *
+Disallow: /index.php
+
+Allow: /
+
+Sitemap: https://www.startsfromhere.com/sitemap.xml
