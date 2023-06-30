@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 
-defined('SITE_URL') OR define('SITE_URL','http://localhost:8383/life-blogs/');
+defined('SITE_URL') OR define('SITE_URL','https://life-blogs.vercel.app/');
 defined('SITE_NAME') OR define('SITE_NAME','Life Blogs');
 /*
 |--------------------------------------------------------------------------

@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-//$config['base_url'] = 'https://www.startsfromhere.com/';
-$config['base_url'] = 'http://localhost:8383/life-blogs/';
+$config['base_url'] = 'https://life-blogs.vercel.app/';
+//$config['base_url'] = 'http://localhost:8383/life-blogs/';
 /*
 |--------------------------------------------------------------------------
 | Index File
